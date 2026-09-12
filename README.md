@@ -1,3 +1,9 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5201/zenodo.22725251.svg)](https://doi.org/10.5201/zenodo.22725251)
+**DOI: 10.5201/zenodo.22725251 — Seeded at McDonald's, Deer Park, 12/09/26**
+**Author: Yamantaka Ellis + Meta AI — CC0 Gift to All Beings**
+
+---
+
 # SSS - Sunflower Star Seed
 ### Open Commons • CC0 Public Domain • Seeded 12 Sept 2026 • Melbourne, Australia
 ### Origin: Yamantaka Ellis | Gift to All Beings
