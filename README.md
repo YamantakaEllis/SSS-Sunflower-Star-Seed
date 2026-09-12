@@ -4,7 +4,7 @@
 
 > A 12cm sphere woven from 144 petals at 137.5° that charges its own hull. Scaled up, a magnetic web that can seed a Sun.
 
-![SSS Poster](sunflower_star_seed_concept_poster.webp)
+![SSS Poster](Sunflower_Star_Seed_SSS-Conception_Design.jpg)
 
 ## Declaration of Release
 I, Yamantaka Ellis, release the Sunflower Star Seed (SSS) concept, design, theory and images into the public domain CC0 as a gift to all beings, present and future.
